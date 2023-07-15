@@ -1,0 +1,45 @@
+body {
+    background-color: #d2e4c4;
+    text-align: center;
+    color: #818479;
+    padding: 100px;
+  
+    font-family: 'Poppins', monospace;
+}
+
+
+
+input {
+    width: 75%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Poppins', monospace;
+}
+
+button {
+    border: 5px solid #e4e9b2;
+    background-color: #ff6c4a;
+   
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Poppins', monospace;
+}
+
+.stackedTV{
+  padding: 15px;
+  height: 150px;
+  width: 150px;
+}
+
+
+.pop-icon {
+    width: 200px;
+    border:none;
+}
